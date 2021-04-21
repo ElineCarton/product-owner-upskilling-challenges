@@ -1,1 +1,16 @@
-/* Add any styling you want */
+body,p{
+	background:#caf0f8;
+	color:#03045e;
+	font-family:'Petrona', serif;;
+	font-size: 16px;
+}
+
+h1{
+	color:#0077b6;
+}
+
+a{color:#0077b6;}
+
+a:hover{
+	color:#00b4d8;
+}
